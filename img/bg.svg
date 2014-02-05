@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1080px" height="1920px" viewBox="0 0 1080 1920" enable-background="new 0 0 1080 1920" xml:space="preserve">
+<rect x="150.26" y="83.185" fill="none" width="245.295" height="138.889"/>
+<text transform="matrix(1 0 0 1 150.2598 137.3281)" fill="#FFFFFF" font-family="'NeoSansIntel'" font-size="72">sensors</text>
+<rect x="660.111" y="83.185" fill="none" width="296.035" height="94.445"/>
+<text transform="matrix(1 0 0 1 660.1113 137.3281)" fill="#FFFFFF" font-family="'NeoSansIntel'" font-size="72">actuators</text>
+<rect x="-1" y="1" fill="#00FF8C" width="541" height="1920"/>
+<rect x="540" y="1" fill="#00FFE0" width="540" height="1920"/>
+<g>
+	<g>
+		<line fill="none" stroke="#FFFFFF" stroke-width="7" stroke-miterlimit="10" x1="540.5" y1="1" x2="540.5" y2="21"/>
+		
+			<line fill="none" stroke="#FFFFFF" stroke-width="7" stroke-miterlimit="10" stroke-dasharray="40,40" x1="540.5" y1="61" x2="540.5" y2="1881"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="7" stroke-miterlimit="10" x1="540.5" y1="1901" x2="540.5" y2="1921"/>
+	</g>
+</g>
+</svg>

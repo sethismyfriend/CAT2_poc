@@ -1,0 +1,60 @@
+/** ELEMENTS **/
+.source-target-demo .window { 
+	border:3px dotted #346789; 
+	width:9em; 
+	height:6em; 	
+	line-height:2em;
+	padding:0.5em; 	
+}
+.actuatorWindow { background-color:#888; }
+.sensorWindow { background-color:#ddd; }
+
+/** ENABLE/DISABLE LINK **/
+#enableDisableSource {
+	position:absolute;
+	top:3em;
+	left:3em;
+	color:#DDD;
+}
+#enableDisableSource:hover {
+	color:orange;
+}
+
+.plusButton {
+	background-color: #ccc; 
+	border:1px dotted #346789; 
+	width:150px; 
+	height:25px; 	
+	line-height:2em;
+	padding:0.5em;
+	border-radius: 8px;
+}
+
+.popDiv {
+	background-color: #ccc; 
+	border:1px dotted #346789;
+	width:150px;
+}
+
+#sensorSelect {
+	position: absolute; 
+	bottom: 15px; 
+	left: 0;
+	text-align: left;
+	margin-left: 15%;
+	text-indent: 0.5em; 
+	z-index: 1500; 
+}
+
+/** 3 Sources STYLE AND POSITION - em is a carriage returns **/
+#sourceWindow1 { top:20%; left:15%; }
+#sourceWindow2 { top:40%; left:15%; }
+#sourceWindow3 { top:60%; left:15%; }
+
+/** SMALL WINDOW POSITIONS **/
+#targetWindow1 { top:20%; left:70%; }
+#targetWindow2 { top:40%; left:70%; }
+#targetWindow3 { top:60%; left:70%; }
+
+/** JSPLUMB ARTEFACTS **/
+._jsPlumb_endpoint { z-index:32; }
